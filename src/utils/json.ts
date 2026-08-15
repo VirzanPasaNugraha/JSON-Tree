@@ -25,7 +25,7 @@ export const sampleJson = `{
   "users": [
     {
       "id": 1842,
-      "name": "Nadia Pratama",
+      "name": "Virzan",
       "active": true,
       "roles": ["admin", "editor"],
       "profile": {
@@ -35,7 +35,7 @@ export const sampleJson = `{
     },
     {
       "id": 1843,
-      "name": "Raka Putra",
+      "name": "Clan",
       "active": false,
       "roles": ["viewer"],
       "profile": null
