@@ -29,7 +29,7 @@ export const sampleJson = `{
       "active": true,
       "roles": ["admin", "editor"],
       "profile": {
-        "city": "Bandung",
+        "city": "Sumedang",
         "verified": true
       }
     },
